@@ -1,0 +1,12 @@
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\bin\Debug\nameSwitcher.exe.config
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\bin\Debug\nameSwitcher.exe
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\bin\Debug\nameSwitcher.pdb
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\bin\Debug\nameSwitcher.xml
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\obj\Debug\nameSwitcher.Form1.resources
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\obj\Debug\nameSwitcher.Resources.resources
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\obj\Debug\nameSwitcher.vbproj.GenerateResource.cache
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\obj\Debug\nameSwitcher.vbproj.CoreCompileInputs.cache
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\obj\Debug\nameSwitcher.exe
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\obj\Debug\nameSwitcher.xml
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\obj\Debug\nameSwitcher.pdb
+C:\Users\mylan\source\repos\nameSwitcher\nameSwitcher\obj\Debug\nameSwitcher.vbprojAssemblyReference.cache
